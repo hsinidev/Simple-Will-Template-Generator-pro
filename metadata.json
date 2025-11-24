@@ -1,0 +1,5 @@
+{
+  "name": "Simple Will Template Generator",
+  "description": "A modern web application to generate a basic, formal Simple Will Template based on user inputs. This tool is for informational purposes only and does not provide legal advice.",
+  "requestFramePermissions": []
+}
