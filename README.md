@@ -10,7 +10,7 @@
 ## 🚀 Live Demo
 
 Check out the live application here:  
-👉 **[WillGenerator.doodax.com](https://WillGenerator.doodax.com)** (Opens in new tab)
+👉 **[doodax.com](https://doodax.com/tools/powered-will-generator/index.html)** (Opens in new tab)
 
 ---
 
